@@ -11,7 +11,6 @@ module.exports = {
         "indent": 4,
         "arrow-parens": ["error", "always", {
             "requireForBlockBody": true,
-        }],
-
+        }]
     }
 };
