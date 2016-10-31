@@ -1,7 +1,7 @@
 # header-parser-microservice
 A microservice that parses the header for browser information
 
-## UrL
+## URL
 https://stormy-bayou-63440.herokuapp.com/
 
 ## Example
